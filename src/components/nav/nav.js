@@ -7,7 +7,7 @@ const Nav = () => (
         <a className="navbar-brand" href="/">Click-Out!!</a>
       </div>
       <ul className="nav navbar-nav">
-        <a href="https://github.com/kyleruff1/clickygame.git">GitHub Repo</a>
+        <a href="https://github.com/developrfw/Clicky-Game">GitHub Repo</a>
       </ul>
     </nav>
 );
